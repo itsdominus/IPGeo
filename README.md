@@ -1,2 +1,4 @@
-# IPGeo
-for fun, do not make mistake pls
+This is get IP info!!
+Warning!!
+You have to this risk!!!!!
+(c) Unknown 2020-2021(folder LICENSE)
